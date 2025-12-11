@@ -37,24 +37,23 @@ Seu objetivo é atravessar uma estrada movimentada controlando uma vaca - garant
 
 ## 🛠️ Tecnologias utilizadas
 
-- **HTML5** para a estrutura;
-- **CSS3** para o estilo;
-- **JavaScript (ES6)** para a lógica;
-- **[p5.js](https://p5js.org/)** para canvas e mecânica do jogo;
-- **p5.sound*** para efeitos sonoros.
+- **HTML5** - estrutura;
+- **CSS3** - estilo visual;
+- **JavaScript (ES6)** - lógica do jogo;
+- **p5.js** - canvas e mecânica do jogo;
+- **p5.sound*** - efeitos sonoros.
 
 ---
 
-## 🚀 Como jogar localmente
+## 🖥️ Como jogar localmente
 
-1. Clone este repositório:
 ```bash
+# Clone este repositório
 git clone https://github.com/UelintonHJ/cow-run.git
-```
-2. Acesse a pasta do projeto:
-```bash
-cd cow-run
-```
-3. Abra o arquivo **index.html** no navegador (de preferência o Chrome ou Edge).
 
-Pronto! O jogo roda 100% no navegador, sem precisar instalar nada.
+# Entre na pasta
+cd cow-run
+
+# Abra no navegador
+index.html
+```
