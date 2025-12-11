@@ -1,4 +1,5 @@
 # 🐄 [Cow Run Game](cow-run-ten.vercel.app/)
+*(Funciona somente em PC)*
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
@@ -12,19 +13,25 @@
 ## 🎮 Sobre o jogo
 
 O **Cow Run Game** é um mini-game inspirado no clássico *Frogger*, mas com um toque rural!
-Aqui, você controla uma vaca destemida que tenta atravessar uma rodovia movimentada para marcar pontos.
+Seu objetivo é atravessar uma estrada movimentada controlando uma vaca - garantindo pontos, desviando de carros e tentando sobreviver o máximo possível.
 
-**Objeivos**: atravessar a rua sem ser churrascado!
+🎯 **Objetivo**
 
-**Controles**: 
-⬆️ **Seta pra cima**: move a vaca para frente;
-⬇️ **Seta para baixo**: move a vaca para trás.
+* Atravessar a rua sem ser atingido
+* Marcar pontos a cada travessia completa
 
-🟢 A cada travessia bem-sucedida, você **ganha pontos**. 
+🎛️ **Controles**
 
-❌ A cada colisão, você perde uma vida.
+* ⬆️ **Seta pra cima** - move para frente;
+* ⬇️ **Seta para baixo** - move para trás.
 
-💀 Depois de 5 colisões... **Game Over!**
+❤️ **Vidas e Pontuação**
+
+* 🟢 Travessia bem-sucedida -> **+1 pontos**
+
+* ❌ Colisão -> **-1 vida** 
+
+* 💀 Após **5 colisões**, é **Game Over!**
 
 ---
 
